@@ -45,7 +45,7 @@ namespace SkillOverbot
         {
             return new AppSettings()
             {
-                BotToken = "5810580706:AAErDEL-lHft1wl14e7YA4YSynuMla8bDzw"
+                BotToken = "TOKEN"
             };
         }
     }
